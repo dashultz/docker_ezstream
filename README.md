@@ -10,4 +10,4 @@ The ezstream binary is run with xml config file "/ezstream/ezstream.xml". This f
 Example Invocation:
 
 
-# docker run -v /storage/Docker/ezstream:/ezstream:ro -v /storage/Media/Music:/music:ro --name ezstream -d dashultz/ezstream
+    # docker run -v /storage/Docker/ezstream:/ezstream:ro -v /storage/Media/Music:/music:ro --name ezstream -d dashultz/ezstream
